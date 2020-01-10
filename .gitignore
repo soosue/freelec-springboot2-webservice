@@ -2,3 +2,5 @@
 
 .gradle
 .idea
+src/main/resources/application-google.properties
+build
